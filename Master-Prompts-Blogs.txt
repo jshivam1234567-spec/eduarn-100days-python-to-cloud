@@ -88,11 +88,12 @@ Git & GitHub
 AWS EC2
 AWS S3
 AWS Lambda (optional)
-📊 8. Comparison (If applicable)
+📊 8. Comparison in (If applicable)
 
-Simple LinkedIn-style comparison:
+Simple LinkedIn-style comparison not in tablure format:
 
 Traditional Python project vs AWS-deployed project
+
 Local backend vs Cloud backend
 🚀 9. Benefits for Freshers
 
