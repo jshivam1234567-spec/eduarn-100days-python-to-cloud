@@ -1,0 +1,93 @@
+Git
+
+Git is a Version Control System (VCS).
+
+It is a software installed on your computer that helps you:
+
+Track code changes
+Save different versions of your project
+Restore older versions if something breaks
+Work on new features using branches
+Manage project history
+Example
+
+Suppose you're building a Python Flask project.
+
+git init
+git add .
+git commit -m "Created login feature"
+
+Git stores these changes locally on your computer.
+
+Think of Git as:
+
+📖 A diary that records every change you make to your code.
+
+🔹 GitHub
+
+GitHub is a cloud-based platform that hosts Git repositories online.
+
+It helps you:
+
+Store code on the internet
+Backup your projects
+Collaborate with other developers
+Share projects with recruiters
+Contribute to open-source projects
+Example
+
+After creating commits with Git:
+
+git push origin main
+
+Your code gets uploaded to GitHub.
+
+Think of GitHub as:
+
+☁️ Google Drive for Git repositories.
+
+📊 Git vs GitHub
+Feature	Git	GitHub
+What is it?	Version Control System	Cloud Hosting Platform
+Works Offline?	✅ Yes	❌ Requires Internet
+Installed on PC?	✅ Yes	❌ No
+Stores Code History?	✅ Yes	✅ Yes
+Collaboration?	Limited	Excellent
+Created By	Linus Torvalds	GitHub
+Main Purpose	Track changes	Share & collaborate
+🔄 How They Work Together
+Write Code
+     ↓
+Git Tracks Changes
+     ↓
+Git Creates Commits
+     ↓
+GitHub Stores Repository Online
+     ↓
+Team Members Collaborate
+💼 Interview Answer (Short Version)
+
+Q: What is the difference between Git and GitHub?
+
+Answer:
+
+Git is a version control system used to track and manage code changes locally, while GitHub is a cloud-based platform that hosts Git repositories and enables collaboration, code sharing, and project management.
+
+🚀 For Freshers
+
+Learn in this order:
+
+Git Basics
+git init
+git add
+git commit
+git status
+git log
+GitHub Basics
+Create repositories
+Push code
+Pull code
+Clone repositories
+Create Pull Requests
+
+Most companies expect freshers to know both Git and GitHub because they are used daily in real-world software development.
