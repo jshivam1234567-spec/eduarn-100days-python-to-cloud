@@ -1,0 +1,32 @@
+What is a Commit ?
+A commit in Git is a saved snapshot of your project at a specific point in time.
+It is  like pressing "Save Game" in a video game. If something goes wrong later, you can return to that saved point.
+
+What is branching?
+Branching in Git is the process of creating a separate line of development to work on new features or fixes without affecting the main codebase.
+
+What is Merge conflict ?
+A merge conflict occurs when Git cannot automatically combine changes from two branches because the same part of a file was modified differently in both branches.
+
+What is Python Full Stack with AWS Cloud?
+It combines frontend development, backend development, databases, APIs, and AWS cloud deployment.
+
+ Why is AWS important for Python developers?
+ AWS helps host, scale, and manage Python applications efficiently.
+
+Is it used in real companies?
+Yes. Startups and enterprise organizations widely use Python and AWS together.
+
+Is it required for freshers?
+Not mandatory, but highly recommended for better job opportunities.
+
+How can I learn it step-by-step?
+Python → Git → GitHub → Flask/Django → Database → APIs → AWS Deployment
+
+ Which AWS services are used with Python?
+EC2
+S3
+Lambda
+RDS
+API Gateway
+
